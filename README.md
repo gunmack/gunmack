@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Gunmack (Julkar) ! 👋
 
-<!--
-**gunmack/gunmack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I am a 2nd year Computing Science student at Simon Fraser University
+- I'm interested in developing full-stack applications
+- I’m currently working on my [portfolio](https://www.gunmack.dev/)
+## GitHub Stats
+![Gunmack's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunmack&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+## Languages and Tools
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunmack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [QuizLing](https://github.com/gunmack/276_Project) 
+- [Portfolio](https://github.com/gunmack/gunmack.github.io)
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/jreedoy/)
