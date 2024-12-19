@@ -3,7 +3,7 @@
 ## About Me
 - I am a 2nd year Computing Science student at Simon Fraser University
 - I'm interested in developing full-stack applications
-- I’m currently working on my <a href="https://www.gunmack.dev/" target="_blank">portfolio</a>
+- I’m currently working on my [portfolio](https://www.gunmack.dev/)
 ## GitHub Stats
 ![Gunmack's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunmack&show_icons=true&theme=radical)
 
@@ -11,9 +11,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunmack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
-- <a href="https://github.com/gunmack/276_Project" target="_blank">QuizLing</a>
-- <a href="https://www.gunmack.dev/" target="_blank">Portfolio</a>
-- <a href="https://example.com" target="_blank">Example</a>
+- [QuizLing](https://github.com/gunmack/276_Project)
+- [Portfolio](https://www.gunmack.dev/)
+
 
 
 ## Connect with Me
