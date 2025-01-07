@@ -1,7 +1,7 @@
 # Hi there, I'm Gunmack (Julkar) ! 👋
 
 ## About Me
-- I am a 2nd year Computing Science student at Simon Fraser University
+- I am a 3rd year Computing Science student at Simon Fraser University
 - I'm interested in developing full-stack applications
 - I’m currently working on my [portfolio](https://www.gunmack.dev/)
 ## GitHub Stats
@@ -11,9 +11,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunmack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
-- [QuizLing](https://github.com/gunmack/276_Project)
+- [QuizLing](https://quizling-red.vercel.app/)
 - [Portfolio](https://www.gunmack.dev/)
-
+- [Calc-it](https://calc-it-gunmack.vercel.app/calc-it)
 
 
 ## Connect with Me
